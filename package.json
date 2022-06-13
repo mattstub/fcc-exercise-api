@@ -1,0 +1,29 @@
+{
+  "name": "fcc-exercise-api",
+  "version": "1.0.0",
+  "description": "This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattstub/fcc-exercise-api.git"
+  },
+  "author": "Matt Stubenhofer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattstub/fcc-exercise-api/issues"
+  },
+  "homepage": "https://github.com/mattstub/fcc-exercise-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "date-fns": "^2.28.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.6",
+    "path": "^0.12.7",
+    "uuid": "^8.3.2"
+  }
+}
